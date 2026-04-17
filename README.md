@@ -27,7 +27,7 @@ This repository contains all CAD files for the drone and payload delivery system
 
 ## Frame Design
 
-The frame was designed from scratch and 3D printed, built specifically around the rotating drum payload mechanism. Generative modelling techniques were applied to the frame geometry, reducing overall structural weight by approximately **50%** while maintaining the required rigidity for flight loads.
+The frame was designed from scratch and 3D printed in ABS, built specifically around the rotating drum payload mechanism. Generative modelling techniques and topology optimisation were applied to the frame geometry, reducing overall structural weight by approximately **50%** while maintaining the required rigidity for flight loads.
 
 ---
 
