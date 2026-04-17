@@ -17,7 +17,7 @@ This repository contains all CAD files for the drone and payload delivery system
 | Flight Controller | Pixhawk 6C Mini |
 | Flight Stack | PX4 |
 | Frame | Fully custom 3D printed |
-| Total Weight | ~1.6kg |
+| Total Weight | ~2kg |
 | Payload Capacity | 400g (total under 2kg limit) |
 | Payload Mechanism | Rotating drum with servo + 3:1 gear ratio |
 | Payload Attachment | Electromagnets (pick & release) |
