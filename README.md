@@ -2,6 +2,8 @@
 
 CAD files for our competition drone built for the 2026 Singapore Amazing Flying Machine Competition (SAFMC), Man-Machine category.
 
+<img width="1280" height="720" alt="photo_2026-04-18_21-35-43" src="https://github.com/user-attachments/assets/de6ec490-d580-440f-9f00-45dea1679144" />
+
 ---
 
 ## Overview
@@ -42,13 +44,23 @@ The payload system uses a **rotating drum** controlled by a servo motor through 
 
 This allows the drone to carry and swap multiple payloads in a single flight.
 
+**Payload Operation**
+
+[![Payload Operation](https://img.youtube.com/vi/4q10erNs9o4/0.jpg)](https://youtu.be/4q10erNs9o4)
+
 ---
 
 ## Prototypes
 
 Initial prototypes and frame iterations are documented in this repository, showing the evolution of the design from early concepts to the final competition build.
 
+<img width="1280" height="1238" alt="photo_2026-04-18_21-35-46" src="https://github.com/user-attachments/assets/c9f07a71-94c8-4823-b9bf-6d192587f7fc" />
+
 ---
 
-*Built for SAFMC 2026 — Singapore Amazing Flying Machine Competition*
+**Drone in Flight**
 
+[![Drone Flying](https://img.youtube.com/vi/34dTOgnVPvQ/0.jpg)](https://youtu.be/34dTOgnVPvQ)
+
+---
+*Built for SAFMC 2026 — Singapore Amazing Flying Machine Competition*
