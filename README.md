@@ -50,15 +50,5 @@ Initial prototypes and frame iterations are documented in this repository, showi
 
 ---
 
-## Repository Structure
-
-\
-├── Docking port/
-├── Drone_Custom_frame/
-├── Drone_F450/
-├── Drone_F550/
-\
----
-
 *Built for SAFMC 2026 — Singapore Amazing Flying Machine Competition*
 
